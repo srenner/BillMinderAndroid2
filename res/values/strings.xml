@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BillMinderAndroid2</string>
+    <string name="title_bill_detail">Bill Detail</string>
+
+</resources>
